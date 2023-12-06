@@ -10,7 +10,8 @@ Download the dataset from here:
 https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
 
 In Main.py:
-Set DATA_PATH to be the location for your data files
+Set DATA_PATH to be the location for your data files.
+
 Configure the following parameters at your risk:
 - USE_AUGMENTED_PHOTOS
 - PRINT_IMAGES (not supported)
