@@ -1,10 +1,10 @@
 # To Run:
 Install all package requirements
 
--PyTorch (torch, torchvision, torchmetrics)
--AliveProgress
--Matplotlib
--Glob
+- PyTorch (torch, torchvision, torchmetrics)
+- AliveProgress
+- Matplotlib
+- Glob
 
 Download the dataset from here: 
 https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
